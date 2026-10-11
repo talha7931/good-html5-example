@@ -1,0 +1,9 @@
+* { box-sizing: border-box; }
+body { margin: 0; font-family: Arial, sans-serif; background: #f4f6f8; color: #222; line-height: 1.6; }
+header { padding: 28px 6%; background: #2457a7; color: white; }
+nav { padding: 16px 6%; background: #e6edf8; display: flex; flex-wrap: wrap; gap: 20px; }
+nav a { color: #17437d; text-decoration: none; font-weight: bold; }
+nav a:hover { text-decoration: underline; }
+main { max-width: 800px; margin: 24px auto; padding: 0 18px; }
+article, section { background: white; padding: 20px; margin-bottom: 16px; border-radius: 8px; }
+footer { text-align: center; padding: 18px; color: #555; }
